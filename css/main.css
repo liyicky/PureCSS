@@ -178,9 +178,9 @@ textarea {
 
 .dashboard-piece-logo {
   background-image: url("../img/logo.jpg");
-  background-size: 100%;
+  background-size: 2000px 1500px;
   background-repeat: no-repeat;
-  background-position: center -140px;
+  background-position: center 35%;
 }
 
 .dashboard-piece h1 {
